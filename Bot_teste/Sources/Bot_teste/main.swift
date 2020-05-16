@@ -1,6 +1,6 @@
 import Sword
 
-let bot = Sword(token: "NzExMjcyODgwNTQ0OTQwMTAy.XsAmiQ.R5vgFhE2bvcKk-b9ghtcKZwxJ_g")
+let bot = Sword(token: "NzExMjcyODgwNTQ0OTQwMTAy.XsAoUQ.bPLlVqs4hAR9qEOOcJNmDBPUlrU")
 
 bot.editStatus(to: "online", playing: "!ss")
 
