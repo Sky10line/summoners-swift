@@ -2,7 +2,7 @@ import Sword
 
 let bot = Sword(token: "NzExMjcyODgwNTQ0OTQwMTAy.XsAoUQ.bPLlVqs4hAR9qEOOcJNmDBPUlrU")
 
-bot.editStatus(to: "online", playing: "Novo teste")
+bot.editStatus(to: "online", playing: "!ss")
 
 bot.on(.messageCreate) { data in
   let msg = data as! Message
